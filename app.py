@@ -371,4 +371,4 @@ with gr.Blocks(title="Product Manual Assistant", elem_id="main-container", css="
     """)
 
 
-    demo.launch()
+    demo.launch(server_name="0.0.0.0", server_port=8080)
