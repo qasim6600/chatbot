@@ -22,7 +22,7 @@ RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
 # Expose the port Gradio will run on
-EXPOSE 7860
+EXPOSE 8080
 
 # Run the Gradio app
 CMD ["python", "app.py"]
