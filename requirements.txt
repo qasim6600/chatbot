@@ -1,0 +1,7 @@
+gradio
+pdfplumber
+sentence-transformers
+numpy
+scikit-learn
+langchain
+groq
