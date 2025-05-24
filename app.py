@@ -114,8 +114,8 @@ client = Groq(api_key="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"
 # --- Manual Preloading ---
 manuals = {
     "ElectroLux washing Machine": "elctrolux.pdf",
-##    "Mitsubishi Industrial AC": "Mitsubishi Industrial AC.pdf",
-##    "whirl-pool Microwave": "whirl-pool Microwave.pdf",
+    "Mitsubishi Industrial AC": "Mitsubishi Industrial AC.pdf",
+    "whirl-pool Microwave": "whirl-pool Microwave.pdf",
 }
 
 manual_data = {}
