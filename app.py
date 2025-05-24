@@ -187,7 +187,7 @@ def validate_query(query, manual_name):
                 },
                 {"role": "user", "content": query}
             ],
-            temperature=0.4,
+            temperature=0.2,
             max_tokens=120
         )
 
